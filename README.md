@@ -45,5 +45,6 @@ Tendrás que desarrollar un proyecto en NodeJs que haga uso de la API de IMDB, y
 * **Estructura**, tal como lo has podido evidenciar en librerías que has usado previamente, es muy importante contar un `README.md`, organización de carpetas y archivos y uso de estándares.
 * **Tests**, claves para que futuros cambios al código no afecten las funcionalidades actuales.
 * **Performance**, siempre será importante que la solución sea eficiente en el uso de recursos y en tiempos de respuesta, o más bien, un equilibrio entre ambas.
+* **Un tip a considerar**, [para que veas que somos buenos partners 😉](https://www.google.com/search?q=imdb+api+limit&rlz=1C5CHFA_enCL986CL987&sxsrf=ALiCzsZ9RLKX55COVW_c0j6mi4ARUvgGgA%3A1657125179295&ei=O7nFYvbXEba75OUPhNeXWA&oq=imdb+api+&gs_lcp=Cgdnd3Mtd2l6EAMYADIGCCMQJxATMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBOgcIABBHELADOgsIABCABBCxAxCDAToICAAQsQMQgwE6EQguEIAEELEDEIMBEMcBEKMCOgQIABADOggILhCxAxCDAToECAAQQzoECC4QQzoQCC4QsQMQgwEQxwEQ0QMQQzoNCC4QxwEQ0QMQ1AIQQzoKCAAQsQMQgwEQQzoKCC4QxwEQ0QMQQzoHCC4Q1AIQQzoLCC4QgAQQsQMQgwE6BQgAEIAEOgUILhCABEoECEEYAEoECEYYAFD3E1jnHmCSJWgBcAF4AIABP4gBjwSSAQE5mAEAoAEByAEIwAEB&sclient=gws-wiz)
 
 ¡Éxito! ¡Esperamos tu postulación!
