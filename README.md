@@ -1,4 +1,4 @@
-# Valhalla Back-end Challenge
+# Valhalla Backend Challenge
 
 La idea detrás de este desafío es poder conocerte un poco más y evaluar tu conocimiento técnico.
 
